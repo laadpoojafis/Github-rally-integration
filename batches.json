@@ -1,0 +1,1194 @@
+{
+  "batches": [
+    {
+      "batchid": "0",
+      "reponame": [
+        {
+          "repo_name": "WPT/wph-connector",
+          "blacklisted": "no",
+          "rally_scm_id": "457559140820"
+        },
+        {
+          "repo_name": "WPT/worldpay-connector",
+          "blacklisted": "no",
+          "rally_scm_id": "457560525156"
+        },
+        {
+          "repo_name": "WPT/worldpay-giftcardconnector",
+          "blacklisted": "no",
+          "rally_scm_id": "457559932292"
+        },
+        {
+          "repo_name": "WPT/wp-emboss",
+          "blacklisted": "no",
+          "rally_scm_id": "457560437340"
+        },
+        {
+          "repo_name": "WPT/wp-epos-api-test",
+          "blacklisted": "no",
+          "rally_scm_id": "457560361428"
+        },
+        {
+          "repo_name": "WPT/wp-p2pe",
+          "blacklisted": "no",
+          "rally_scm_id": "457559903848"
+        },
+        {
+          "repo_name": "WPT/wp-token-lib",
+          "blacklisted": "no",
+          "rally_scm_id": "457560328744"
+        },
+        {
+          "repo_name": "WPT/wp-yespay-db",
+          "blacklisted": "no",
+          "rally_scm_id": "457559455308"
+        },
+        {
+          "repo_name": "WPT/wp-yp-alerts",
+          "blacklisted": "no",
+          "rally_scm_id": "457559455396"
+        },
+        {
+          "repo_name": "WPT/wph-config",
+          "blacklisted": "no",
+          "rally_scm_id": ""
+        }
+      ]
+    },
+    {
+      "batchid": "1",
+      "reponame": [
+        {
+          "repo_name": "WPT/wph-hsm-utility",
+          "blacklisted": "no",
+          "rally_scm_id": ""
+        },
+        {
+          "repo_name": "WPT/wph-p2pe-client",
+          "blacklisted": "no",
+          "rally_scm_id": ""
+        },
+        {
+          "repo_name": "WPT/wph-protocol-processor",
+          "blacklisted": "no",
+          "rally_scm_id": ""
+        },
+        {
+          "repo_name": "WPT/wph-proxy-authenticator",
+          "blacklisted": "no",
+          "rally_scm_id": ""
+        },
+        {
+          "repo_name": "WPT/wph-stg-utility",
+          "blacklisted": "no",
+          "rally_scm_id": ""
+        },
+        {
+          "repo_name": "WPT/wph-tns-utility",
+          "blacklisted": "no",
+          "rally_scm_id": "457891151812"
+        },
+        {
+          "repo_name": "WPT/wpuk-p2pe-dts-console",
+          "blacklisted": "no",
+          "rally_scm_id": "457891698480"
+        },
+        {
+          "repo_name": "WPT/wpuk-p2pe-test-client",
+          "blacklisted": "no",
+          "rally_scm_id": "457891152128"
+        },
+        {
+          "repo_name": "WPT/yespay-Automation_Selenium",
+          "blacklisted": "no",
+          "rally_scm_id": "457891813272"
+        },
+        {
+          "repo_name": "WPT/yespay-BAv2EMBDualCanada",
+          "blacklisted": "no",
+          "rally_scm_id": "457891030024"
+        }
+      ]
+    },
+    {
+      "batchid": "2",
+      "reponame": [
+        {
+          "repo_name": "WPT/yespay-EMBDual",
+          "blacklisted": "no",
+          "rally_scm_id": "457891030092"
+        },
+        {
+          "repo_name": "WPT/yespay-EMBDualCanada",
+          "blacklisted": "no",
+          "rally_scm_id": "457891813436"
+        },
+        {
+          "repo_name": "WPT/yespay-YESCard_wallet",
+          "blacklisted": "no",
+          "rally_scm_id": "457891223308"
+        },
+        {
+          "repo_name": "WPT/yespay-YEScard",
+          "blacklisted": "no",
+          "rally_scm_id": "457891003088"
+        },
+        {
+          "repo_name": "WPT/yespay-android-mposcore",
+          "blacklisted": "no",
+          "rally_scm_id": "457891658968"
+        },
+        {
+          "repo_name": "WPT/yespay-android-pouch",
+          "blacklisted": "no",
+          "rally_scm_id": "457891497796"
+        },
+        {
+          "repo_name": "WPT/yespay-android-securestoragelib",
+          "blacklisted": "no",
+          "rally_scm_id": "457891398000"
+        },
+        {
+          "repo_name": "WPT/yespay-android-storemanager",
+          "blacklisted": "no",
+          "rally_scm_id": "457891109612"
+        },
+        {
+          "repo_name": "WPT/yespay-android-total",
+          "blacklisted": "no",
+          "rally_scm_id": "457891814216"
+        },
+        {
+          "repo_name": "WPT/yespay-android-worldpayzinc",
+          "blacklisted": "no",
+          "rally_scm_id": "457891398228"
+        }
+      ]
+    },
+    {
+      "batchid": "3",
+      "reponame": [
+        {
+          "repo_name": "WPT/yespay-archives",
+          "blacklisted": "no",
+          "rally_scm_id": "457891109768"
+        },
+        {
+          "repo_name": "WPT/yespay-batchtokeniser",
+          "blacklisted": "no",
+          "rally_scm_id": "457891223700"
+        },
+        {
+          "repo_name": "WPT/yespay-bb-mobileevt",
+          "blacklisted": "no",
+          "rally_scm_id": "457891770020"
+        },
+        {
+          "repo_name": "WPT/yespay-bb-pouchwallet",
+          "blacklisted": "no",
+          "rally_scm_id": "457891223864"
+        },
+        {
+          "repo_name": "WPT/yespay-bb-storemanager",
+          "blacklisted": "no",
+          "rally_scm_id": "457891282212"
+        },
+        {
+          "repo_name": "WPT/yespay-coresystem",
+          "blacklisted": "no",
+          "rally_scm_id": "457891109932"
+        },
+        {
+          "repo_name": "WPT/yespay-dailyreconciliation",
+          "blacklisted": "no",
+          "rally_scm_id": "457891398688"
+        },
+        {
+          "repo_name": "WPT/yespay-db-ext",
+          "blacklisted": "no",
+          "rally_scm_id": "457891398812"
+        },
+        {
+          "repo_name": "WPT/yespay-documaker",
+          "blacklisted": "no",
+          "rally_scm_id": "457891583096"
+        },
+        {
+          "repo_name": "WPT/yespay-ios-miuralibrary",
+          "blacklisted": "no",
+          "rally_scm_id": "457891583176"
+        }
+      ]
+    },
+    {
+      "batchid": "4",
+      "reponame": [
+        {
+          "repo_name": "WPT/yespay-ios-pouch",
+          "blacklisted": "no",
+          "rally_scm_id": "457891311036"
+        },
+        {
+          "repo_name": "WPT/yespay-ios-storemanager",
+          "blacklisted": "no",
+          "rally_scm_id": "457891733888"
+        },
+        {
+          "repo_name": "WPT/yespay-ios-webservicelib",
+          "blacklisted": "no",
+          "rally_scm_id": "457891498264"
+        },
+        {
+          "repo_name": "WPT/yespay-ios-worldpayzinc",
+          "blacklisted": "no",
+          "rally_scm_id": "457891583336"
+        },
+        {
+          "repo_name": "WPT/yespay-ipad-worldpayzinc",
+          "blacklisted": "no",
+          "rally_scm_id": "457891311156"
+        },
+        {
+          "repo_name": "WPT/yespay-loyalty-wallet",
+          "blacklisted": "no",
+          "rally_scm_id": "457891311224"
+        },
+        {
+          "repo_name": "WPT/yespay-loyalty",
+          "blacklisted": "no",
+          "rally_scm_id": "457891815440"
+        },
+        {
+          "repo_name": "WPT/yespay-myworldpay",
+          "blacklisted": "no",
+          "rally_scm_id": "457891815508"
+        },
+        {
+          "repo_name": "WPT/yespay-pos-easyvterminal",
+          "blacklisted": "no",
+          "rally_scm_id": "457891110212"
+        },
+        {
+          "repo_name": "WPT/yespay-pos-evt2216",
+          "blacklisted": "no",
+          "rally_scm_id": "457891225312"
+        }
+      ]
+    },
+    {
+      "batchid": "5",
+      "reponame": [
+        {
+          "repo_name": "WPT/yespay-pos-evt2219-linux",
+          "blacklisted": "no",
+          "rally_scm_id": "457891225560"
+        },
+        {
+          "repo_name": "WPT/yespay-pos-evtpatchapplication",
+          "blacklisted": "no",
+          "rally_scm_id": "457891344084"
+        },
+        {
+          "repo_name": "WPT/yespay-pos-hospitality-global",
+          "blacklisted": "no",
+          "rally_scm_id": "457891283152"
+        },
+        {
+          "repo_name": "WPT/yespay-pos-hospitality-uk",
+          "blacklisted": "no",
+          "rally_scm_id": "457891399468"
+        },
+        {
+          "repo_name": "WPT/yespay-pos-integrated-ca-evt-gpc",
+          "blacklisted": "no",
+          "rally_scm_id": "457891110392"
+        },
+        {
+          "repo_name": "WPT/yespay-pos-integratedpaymentclient-1",
+          "blacklisted": "no",
+          "rally_scm_id": "457891816100"
+        },
+        {
+          "repo_name": "WPT/yespay-pos-integratedpaymentclient-2",
+          "blacklisted": "no",
+          "rally_scm_id": "457891500232"
+        },
+        {
+          "repo_name": "WPT/yespay-pos-ipcsimulator",
+          "blacklisted": "no",
+          "rally_scm_id": "457891500296"
+        },
+        {
+          "repo_name": "WPT/yespay-pos-receiptprinter-vb",
+          "blacklisted": "no",
+          "rally_scm_id": "457891500364"
+        },
+        {
+          "repo_name": "WPT/yespay-pos-yespayeposbackofficeserver-wince-uk",
+          "blacklisted": "no",
+          "rally_scm_id": "457891734544"
+        }
+      ]
+    },
+    {
+      "batchid": "6",
+      "reponame": [
+        {
+          "repo_name": "WPT/yespay-psp-hsm",
+          "blacklisted": "no",
+          "rally_scm_id": "457891283864"
+        },
+        {
+          "repo_name": "WPT/yespay-psp-logger",
+          "blacklisted": "no",
+          "rally_scm_id": "457891426504"
+        },
+        {
+          "repo_name": "WPT/yespay-psp-root",
+          "blacklisted": "no",
+          "rally_scm_id": "457891426580"
+        },
+        {
+          "repo_name": "WPT/yespay-qa-automation-ino",
+          "blacklisted": "no",
+          "rally_scm_id": "457891500536"
+        },
+        {
+          "repo_name": "WPT/yespay-qa-automation-sales",
+          "blacklisted": "no",
+          "rally_scm_id": "457891426656"
+        },
+        {
+          "repo_name": "WPT/yespay-qa-automation-teh-client",
+          "blacklisted": "no",
+          "rally_scm_id": "457891426732"
+        },
+        {
+          "repo_name": "WPT/yespay-qa-automation-teh-server",
+          "blacklisted": "no",
+          "rally_scm_id": "457891226964"
+        },
+        {
+          "repo_name": "WPT/yespay-qa-automation",
+          "blacklisted": "no",
+          "rally_scm_id": "457891500888"
+        },
+        {
+          "repo_name": "WPT/yespay-sandbox",
+          "blacklisted": "no",
+          "rally_scm_id": "457891964252"
+        },
+        {
+          "repo_name": "WPT/yespay-talentswitch-live",
+          "blacklisted": "no",
+          "rally_scm_id": "457891964344"
+        }
+      ]
+    },
+    {
+      "batchid": "7",
+      "reponame": [
+        {
+          "repo_name": "WPT/yespay-talentswitch",
+          "blacklisted": "no",
+          "rally_scm_id": "457891426932"
+        },
+        {
+          "repo_name": "WPT/yespay-tokenbatchprocessor",
+          "blacklisted": "no",
+          "rally_scm_id": "457891585320"
+        },
+        {
+          "repo_name": "WPT/yespay-tokenexceptionprocessor",
+          "blacklisted": "no",
+          "rally_scm_id": "457891702932"
+        },
+        {
+          "repo_name": "WPT/yp-ios-mposcore",
+          "blacklisted": "no",
+          "rally_scm_id": "457891585408"
+        },
+        {
+          "repo_name": "WPT/yp-ipad-total",
+          "blacklisted": "no",
+          "rally_scm_id": "457891816564"
+        },
+        {
+          "repo_name": "WPT/yp-iphone-total",
+          "blacklisted": "no",
+          "rally_scm_id": "457891964880"
+        },
+        {
+          "repo_name": "WPT/wp-yp-settlements",
+          "blacklisted": "no",
+          "rally_scm_id": "457891471240"
+        },
+        {
+          "repo_name": "WPT/yespay-qa-automation-report-reconciliation",
+          "blacklisted": "no",
+          "rally_scm_id": "457891227472"
+        },
+        {
+          "repo_name": "WPT/yespay-qa-automation-web-portal",
+          "blacklisted": "no",
+          "rally_scm_id": "457891965040"
+        },
+        {
+          "repo_name": "WPT/Old_ALPS",
+          "blacklisted": "no",
+          "rally_scm_id": "457891585532"
+        }
+      ]
+    },
+    {
+      "batchid": "8",
+      "reponame": [
+        {
+          "repo_name": "WPT/WPH-DOCS",
+          "blacklisted": "no",
+          "rally_scm_id": "457891965440"
+        },
+        {
+          "repo_name": "WPT/onlinepin",
+          "blacklisted": "no",
+          "rally_scm_id": "457891703460"
+        },
+        {
+          "repo_name": "WPT/Sonar-POC",
+          "blacklisted": "no",
+          "rally_scm_id": "457891501524"
+        },
+        {
+          "repo_name": "WPT/wp-yp-config",
+          "blacklisted": "no",
+          "rally_scm_id": "457893364804"
+        },
+        {
+          "repo_name": "WPT/Environment_info",
+          "blacklisted": "no",
+          "rally_scm_id": "457893364868"
+        },
+        {
+          "repo_name": "WPT/yespay-qa-wpt-ipc-automation",
+          "blacklisted": "no",
+          "rally_scm_id": "457893289284"
+        },
+        {
+          "repo_name": "WPT/yespay-qa-automation-util",
+          "blacklisted": "no",
+          "rally_scm_id": "457893366128"
+        },
+        {
+          "repo_name": "WPT/wph-onlinepin-rewrap-client",
+          "blacklisted": "no",
+          "rally_scm_id": "457892636720"
+        },
+        {
+          "repo_name": "WPT/wph-epos-integration-test",
+          "blacklisted": "no",
+          "rally_scm_id": "457892755412"
+        },
+        {
+          "repo_name": "WPT/wp-payment-kernel",
+          "blacklisted": "no",
+          "rally_scm_id": "457893444860"
+        }
+      ]
+    },
+    {
+      "batchid": "9",
+      "reponame": [
+        {
+          "repo_name": "WPT/wph-wpg-off-txn-processor",
+          "blacklisted": "no",
+          "rally_scm_id": "457892871764"
+        },
+        {
+          "repo_name": "WPT/wph-conn-mgr",
+          "blacklisted": "no",
+          "rally_scm_id": "457893327196"
+        },
+        {
+          "repo_name": "WPT/wph-tms-contracts",
+          "blacklisted": "no",
+          "rally_scm_id": "457892755492"
+        },
+        {
+          "repo_name": "WPT/wph-tms",
+          "blacklisted": "no",
+          "rally_scm_id": "457892871948"
+        },
+        {
+          "repo_name": "WPT/wph-epos-common",
+          "blacklisted": "no",
+          "rally_scm_id": "457893366396"
+        },
+        {
+          "repo_name": "WPT/parent-auth-switch-contract",
+          "blacklisted": "no",
+          "rally_scm_id": "457893366468"
+        },
+        {
+          "repo_name": "WPT/wpt-commons-logging",
+          "blacklisted": "no",
+          "rally_scm_id": "457892838064"
+        },
+        {
+          "repo_name": "WPT/wph-pin-keyexchange",
+          "blacklisted": "no",
+          "rally_scm_id": "457893248164"
+        },
+        {
+          "repo_name": "WPT/wph-bna-db-api",
+          "blacklisted": "no",
+          "rally_scm_id": "457893248252"
+        },
+        {
+          "repo_name": "WPT/wph-bna-billing",
+          "blacklisted": "no",
+          "rally_scm_id": "457893248336"
+        }
+      ]
+    },
+    {
+      "batchid": "10",
+      "reponame": [
+        {
+          "repo_name": "WPT/wph-bna-onboarding-contract",
+          "blacklisted": "no",
+          "rally_scm_id": "457893366892"
+        },
+        {
+          "repo_name": "WPT/wph-bna-ui",
+          "blacklisted": "no",
+          "rally_scm_id": "457893366984"
+        },
+        {
+          "repo_name": "WPT/wp-zinc",
+          "blacklisted": "no",
+          "rally_scm_id": "457893248428"
+        },
+        {
+          "repo_name": "WPT/wph-auth-switch",
+          "blacklisted": "no",
+          "rally_scm_id": "457893248500"
+        },
+        {
+          "repo_name": "WPT/wph-config-dev",
+          "blacklisted": "no",
+          "rally_scm_id": "457893213916"
+        },
+        {
+          "repo_name": "WPT/wph-config-ppe",
+          "blacklisted": "no",
+          "rally_scm_id": "457892838432"
+        },
+        {
+          "repo_name": "WPT/wph-elavon-contracts",
+          "blacklisted": "no",
+          "rally_scm_id": "457892591300"
+        },
+        {
+          "repo_name": "WPT/wph-elavon",
+          "blacklisted": "no",
+          "rally_scm_id": "457893163860"
+        },
+        {
+          "repo_name": "WPT/wph-epos",
+          "blacklisted": "no",
+          "rally_scm_id": "457893289940"
+        },
+        {
+          "repo_name": "WPT/yespay-psp-safenet-dev",
+          "blacklisted": "no",
+          "rally_scm_id": "457892783032"
+        }
+      ]
+    },
+    {
+      "batchid": "11",
+      "reponame": [
+        {
+          "repo_name": "WPT/yespay-qa-automation-teh-mobile",
+          "blacklisted": "no",
+          "rally_scm_id": "457892838792"
+        },
+        {
+          "repo_name": "WPT/yespay-qa-wpt-ipc-swupgrade-automation",
+          "blacklisted": "no",
+          "rally_scm_id": "457892783116"
+        },
+        {
+          "repo_name": "WPT/wph-bna-wsclient",
+          "blacklisted": "no",
+          "rally_scm_id": "457893214232"
+        },
+        {
+          "repo_name": "WPT/wph-external-swagger-contracts",
+          "blacklisted": "no",
+          "rally_scm_id": "457893406588"
+        },
+        {
+          "repo_name": "WPT/wph-micro-bin-range",
+          "blacklisted": "no",
+          "rally_scm_id": "457893290096"
+        },
+        {
+          "repo_name": "WPT/wph-customer-rating",
+          "blacklisted": "no",
+          "rally_scm_id": "457893249144"
+        },
+        {
+          "repo_name": "WPT/wph-customer-rating-contract",
+          "blacklisted": "no",
+          "rally_scm_id": "457893249208"
+        },
+        {
+          "repo_name": "WPT/wpt-simple-project",
+          "blacklisted": "no",
+          "rally_scm_id": "457893249312"
+        },
+        {
+          "repo_name": "WPT/wpt-reference-project",
+          "blacklisted": "no",
+          "rally_scm_id": "457893451040"
+        },
+        {
+          "repo_name": "WPT/wph-auth",
+          "blacklisted": "no",
+          "rally_scm_id": "457892756148"
+        }
+      ]
+    },
+    {
+      "batchid": "12",
+      "reponame": [
+        {
+          "repo_name": "WPT/wpt_ipc_gui_automation",
+          "blacklisted": "no",
+          "rally_scm_id": "457893451548"
+        },
+        {
+          "repo_name": "WPT/wph-bna-ui-api-router",
+          "blacklisted": "no",
+          "rally_scm_id": "457893406760"
+        },
+        {
+          "repo_name": "WPT/wp-integrated-payment-client-3",
+          "blacklisted": "no",
+          "rally_scm_id": "457893214456"
+        },
+        {
+          "repo_name": "WPT/EMBOSS_Automation",
+          "blacklisted": "no",
+          "rally_scm_id": "457893406916"
+        },
+        {
+          "repo_name": "WPT/wph-settlement-automation",
+          "blacklisted": "no",
+          "rally_scm_id": "457892399564"
+        },
+        {
+          "repo_name": "WPT/BnA-Rewrite-UI-Automation",
+          "blacklisted": "no",
+          "rally_scm_id": "457893452396"
+        },
+        {
+          "repo_name": "WPT/wp-payment-kernel-integration-test",
+          "blacklisted": "no",
+          "rally_scm_id": "457893367556"
+        },
+        {
+          "repo_name": "WPT/PropertyManager",
+          "blacklisted": "no",
+          "rally_scm_id": "457893367700"
+        },
+        {
+          "repo_name": "WPT/ipc3-app",
+          "blacklisted": "no",
+          "rally_scm_id": "457893328312"
+        },
+        {
+          "repo_name": "WPT/wph-epos-ws",
+          "blacklisted": "no",
+          "rally_scm_id": "457892399824"
+        }
+      ]
+    },
+    {
+      "batchid": "13",
+      "reponame": [
+        {
+          "repo_name": "WPT/wpt-qa-hpa-automation",
+          "blacklisted": "no",
+          "rally_scm_id": "457892399896"
+        },
+        {
+          "repo_name": "WPT/wpt-qa-ipc-accreditation-automation",
+          "blacklisted": "no",
+          "rally_scm_id": "457893291172"
+        },
+        {
+          "repo_name": "WPT/wpt-qa-api-automation",
+          "blacklisted": "no",
+          "rally_scm_id": "457893291236"
+        },
+        {
+          "repo_name": "WPT/wpt-qa-ipc-client-performance-automation",
+          "blacklisted": "no",
+          "rally_scm_id": "457893249620"
+        },
+        {
+          "repo_name": "WPT/yesgate",
+          "blacklisted": "no",
+          "rally_scm_id": "457893216044"
+        },
+        {
+          "repo_name": "WPT/wpt-qa-bna-services-automation",
+          "blacklisted": "no",
+          "rally_scm_id": "457893249732"
+        },
+        {
+          "repo_name": "WPT/wpt-qa-bna-ui-automation",
+          "blacklisted": "no",
+          "rally_scm_id": "457893454184"
+        },
+        {
+          "repo_name": "WPT/wpt-ipc3-app-automation",
+          "blacklisted": "no",
+          "rally_scm_id": "457893249892"
+        },
+        {
+          "repo_name": "WPT/wpt-qa-portals-automation",
+          "blacklisted": "no",
+          "rally_scm_id": "457893407488"
+        },
+        {
+          "repo_name": "WPT/apache-tomcat-gold-build",
+          "blacklisted": "no",
+          "rally_scm_id": "457893216216"
+        }
+      ]
+    },
+    {
+      "batchid": "14",
+      "reponame": [
+        {
+          "repo_name": "WPT/devops-qa-ipc",
+          "blacklisted": "no",
+          "rally_scm_id": "457892923180"
+        },
+        {
+          "repo_name": "WPT/MUATStatus",
+          "blacklisted": "no",
+          "rally_scm_id": "457892984276"
+        },
+        {
+          "repo_name": "WPT/JenkinsBackup",
+          "blacklisted": "no",
+          "rally_scm_id": "457893371712"
+        },
+        {
+          "repo_name": "WPT/ALPS",
+          "blacklisted": "no",
+          "rally_scm_id": "457892924000"
+        },
+        {
+          "repo_name": "WPT/GlobalBlue-SA",
+          "blacklisted": "no",
+          "rally_scm_id": "457892924100"
+        },
+        {
+          "repo_name": "WPT/PPEUtils",
+          "blacklisted": "no",
+          "rally_scm_id": "457892840212"
+        },
+        {
+          "repo_name": "WPT/ipc3-app-contracts",
+          "blacklisted": "no",
+          "rally_scm_id": "457893291884"
+        },
+        {
+          "repo_name": "WPT/wph-yesgate-ws",
+          "blacklisted": "no",
+          "rally_scm_id": "457892759648"
+        },
+        {
+          "repo_name": "WPT/wph-yesgate-automation-ui",
+          "blacklisted": "no",
+          "rally_scm_id": "457893250172"
+        },
+        {
+          "repo_name": "WPT/wph-yesgate-ui",
+          "blacklisted": "no",
+          "rally_scm_id": "457893524480"
+        }
+      ]
+    },
+    {
+      "batchid": "15",
+      "reponame": [
+        {
+          "repo_name": "WPT/tms-infrastructure",
+          "blacklisted": "no",
+          "rally_scm_id": "457892840364"
+        },
+        {
+          "repo_name": "WPT/tms-upload-service",
+          "blacklisted": "no",
+          "rally_scm_id": "457892759756"
+        },
+        {
+          "repo_name": "WPT/tms-tests",
+          "blacklisted": "no",
+          "rally_scm_id": "457893408132"
+        },
+        {
+          "repo_name": "WPT/tms-url-service",
+          "blacklisted": "no",
+          "rally_scm_id": "457892873680"
+        },
+        {
+          "repo_name": "WPT/wph-mbh-boarding",
+          "blacklisted": "no",
+          "rally_scm_id": "457893524680"
+        },
+        {
+          "repo_name": "WPT/tms-contracts",
+          "blacklisted": "no",
+          "rally_scm_id": "457892873980"
+        },
+        {
+          "repo_name": "WPT/wpt-qa-dms-automation",
+          "blacklisted": "no",
+          "rally_scm_id": "457893292588"
+        },
+        {
+          "repo_name": "WPT/merchant_solution_stabilization",
+          "blacklisted": "no",
+          "rally_scm_id": "457892760044"
+        },
+        {
+          "repo_name": "WPT/ipc3-pointofsale",
+          "blacklisted": "no",
+          "rally_scm_id": "457892784664"
+        },
+        {
+          "repo_name": "WPT/wph-storemanager-ws",
+          "blacklisted": "no",
+          "rally_scm_id": "457893408440"
+        }
+      ]
+    },
+    {
+      "batchid": "16",
+      "reponame": [
+        {
+          "repo_name": "WPT/ipc-app-portal",
+          "blacklisted": "no",
+          "rally_scm_id": "457892841008"
+        },
+        {
+          "repo_name": "WPT/ipc2-installer",
+          "blacklisted": "no",
+          "rally_scm_id": "457893525840"
+        },
+        {
+          "repo_name": "WPT/ZincRegistration",
+          "blacklisted": "no",
+          "rally_scm_id": "457893292820"
+        },
+        {
+          "repo_name": "WPT/maven-ci-friendly",
+          "blacklisted": "no",
+          "rally_scm_id": "457893408660"
+        },
+        {
+          "repo_name": "WPT/tms-upload-service-client",
+          "blacklisted": "no",
+          "rally_scm_id": "457892841460"
+        },
+        {
+          "repo_name": "WPT/maven-ci-friendly-2",
+          "blacklisted": "no",
+          "rally_scm_id": "457892785192"
+        },
+        {
+          "repo_name": "WPT/ipc3-auth-infrastructure",
+          "blacklisted": "no",
+          "rally_scm_id": "457893526228"
+        },
+        {
+          "repo_name": "WPT/ipc3-payment-controller",
+          "blacklisted": "no",
+          "rally_scm_id": "457893409068"
+        },
+        {
+          "repo_name": "WPT/ipc3-app-portal",
+          "blacklisted": "no",
+          "rally_scm_id": "457892760320"
+        },
+        {
+          "repo_name": "WPT/wph-event-store",
+          "blacklisted": "no",
+          "rally_scm_id": "457892760396"
+        }
+      ]
+    },
+    {
+      "batchid": "17",
+      "reponame": [
+        {
+          "repo_name": "WPT/wph-castor-framework",
+          "blacklisted": "no",
+          "rally_scm_id": "457892760472"
+        },
+        {
+          "repo_name": "WPT/wph-castor-framework-1.1",
+          "blacklisted": "no",
+          "rally_scm_id": "457892402592"
+        },
+        {
+          "repo_name": "WPT/wph-fintrax-reconciliation",
+          "blacklisted": "no",
+          "rally_scm_id": "457892785364"
+        },
+        {
+          "repo_name": "WPT/ipc3-login",
+          "blacklisted": "no",
+          "rally_scm_id": "457893526544"
+        },
+        {
+          "repo_name": "WPT/ipc3-payment-controller-client",
+          "blacklisted": "no",
+          "rally_scm_id": "457893486568"
+        },
+        {
+          "repo_name": "WPT/wph-emboss-database",
+          "blacklisted": "no",
+          "rally_scm_id": "457892874460"
+        },
+        {
+          "repo_name": "WPT/wph-virtual-terminal",
+          "blacklisted": "no",
+          "rally_scm_id": "457893526956"
+        },
+        {
+          "repo_name": "WPT/ipc3-control-center",
+          "blacklisted": "no",
+          "rally_scm_id": "457892760584"
+        },
+        {
+          "repo_name": "WPT/StoreManager",
+          "blacklisted": "no",
+          "rally_scm_id": "457893293316"
+        },
+        {
+          "repo_name": "WPT/wph-services-contract",
+          "blacklisted": "no",
+          "rally_scm_id": "457893330612"
+        }
+      ]
+    },
+    {
+      "batchid": "18",
+      "reponame": [
+        {
+          "repo_name": "WPT/PED-Simulator",
+          "blacklisted": "no",
+          "rally_scm_id": "457892402700"
+        },
+        {
+          "repo_name": "WPT/IPC3-AUTH-COMMONS",
+          "blacklisted": "no",
+          "rally_scm_id": "457892760732"
+        },
+        {
+          "repo_name": "WPT/DevOpsInternal",
+          "blacklisted": "no",
+          "rally_scm_id": "457893376096"
+        },
+        {
+          "repo_name": "WPT/MobileEVT",
+          "blacklisted": "no",
+          "rally_scm_id": "457893330760"
+        },
+        {
+          "repo_name": "WPT/DatabaseChanges",
+          "blacklisted": "no",
+          "rally_scm_id": "457892985584"
+        },
+        {
+          "repo_name": "WPT/ECOM",
+          "blacklisted": "no",
+          "rally_scm_id": "457893330856"
+        },
+        {
+          "repo_name": "WPT/EasyVWeb",
+          "blacklisted": "no",
+          "rally_scm_id": "457893527636"
+        },
+        {
+          "repo_name": "WPT/EasyVAPI",
+          "blacklisted": "no",
+          "rally_scm_id": "457893330980"
+        },
+        {
+          "repo_name": "WPT/ipc3-app-performance-test-sdk",
+          "blacklisted": "no",
+          "rally_scm_id": "457892985716"
+        },
+        {
+          "repo_name": "WPT/DeploymentDetails",
+          "blacklisted": "no",
+          "rally_scm_id": "457893528140"
+        }
+      ]
+    },
+    {
+      "batchid": "19",
+      "reponame": [
+        {
+          "repo_name": "WPT/Softpos-RiskEngine",
+          "blacklisted": "no",
+          "rally_scm_id": "457892786640"
+        },
+        {
+          "repo_name": "WPT/Model_Pipeline_Project",
+          "blacklisted": "no",
+          "rally_scm_id": "457893410856"
+        },
+        {
+          "repo_name": "WPT/wph-content-management-contract",
+          "blacklisted": "no",
+          "rally_scm_id": "457893252972"
+        },
+        {
+          "repo_name": "WPT/wph-bna-vtonboarding",
+          "blacklisted": "no",
+          "rally_scm_id": "457893410984"
+        },
+        {
+          "repo_name": "WPT/softpos-red",
+          "blacklisted": "no",
+          "rally_scm_id": "457893253048"
+        },
+        {
+          "repo_name": "WPT/wpt-ims",
+          "blacklisted": "no",
+          "rally_scm_id": "457892786732"
+        },
+        {
+          "repo_name": "WPT/wph-transaction-state",
+          "blacklisted": "no",
+          "rally_scm_id": "457893194128"
+        },
+        {
+          "repo_name": "WPT/RallyLogs",
+          "blacklisted": "no",
+          "rally_scm_id": "457893331544"
+        },
+        {
+          "repo_name": "WPT/wph-access-pos",
+          "blacklisted": "no",
+          "rally_scm_id": "457892787344"
+        },
+        {
+          "repo_name": "WPT/bin-etl",
+          "blacklisted": "no",
+          "rally_scm_id": "457892761736"
+        }
+      ]
+    },
+    {
+      "batchid": "20",
+      "reponame": [
+        {
+          "repo_name": "WPT/bin-etl-db",
+          "blacklisted": "no",
+          "rally_scm_id": "457893529100"
+        },
+        {
+          "repo_name": "WPT/wph-access-worldpay-pos",
+          "blacklisted": "no",
+          "rally_scm_id": "457892555500"
+        },
+        {
+          "repo_name": "WPT/wph-emboss-simulator",
+          "blacklisted": "no",
+          "rally_scm_id": "457892842964"
+        },
+        {
+          "repo_name": "WPT/IPC3-SW-UPGRADE",
+          "blacklisted": "no",
+          "rally_scm_id": "457892761884"
+        },
+        {
+          "repo_name": "WPT/wph-nonsecure-mobileevt",
+          "blacklisted": "no",
+          "rally_scm_id": "457892843036"
+        },
+        {
+          "repo_name": "WPT/wpt-log-portal",
+          "blacklisted": "no",
+          "rally_scm_id": "457892642240"
+        },
+        {
+          "repo_name": "WPT/tms-upload-cli",
+          "blacklisted": "no",
+          "rally_scm_id": "457892787428"
+        },
+        {
+          "repo_name": "WPT/IPC3_Configuration_Portal_Automation",
+          "blacklisted": "no",
+          "rally_scm_id": "457892787520"
+        },
+        {
+          "repo_name": "WPT/lean-sdlc-reference-project",
+          "blacklisted": "no",
+          "rally_scm_id": "457893473368"
+        },
+        {
+          "repo_name": "WPT/wph-automate-spos-key",
+          "blacklisted": "no",
+          "rally_scm_id": "457893332276"
+        }
+      ]
+    },
+    {
+      "batchid": "21",
+      "reponame": [
+        {
+          "repo_name": "WPT/ips-auth-db-tools",
+          "blacklisted": "no",
+          "rally_scm_id": "457892555724"
+        },
+        {
+          "repo_name": "WPT/ipc3-sw-upgrade-automation",
+          "blacklisted": "no",
+          "rally_scm_id": "457893332384"
+        },
+        {
+          "repo_name": "WPT/wph-api-model",
+          "blacklisted": "no",
+          "rally_scm_id": "457892843232"
+        },
+        {
+          "repo_name": "WPT/rallyintegration",
+          "blacklisted": "no",
+          "rally_scm_id": "457893221732"
+        },
+        {
+          "repo_name": "WPT/venafi-rest-client",
+          "blacklisted": "no",
+          "rally_scm_id": "457893253940"
+        },
+        {
+          "repo_name": "WPT/wph-analytics-api",
+          "blacklisted": "no",
+          "rally_scm_id": "457559904132"
+        }
+      ]
+    }
+  ]
+}
